@@ -4,4 +4,4 @@ Dieta.IA é um aplicativo mobile que funciona como um gerador de dietas personal
 
 Esse é um projeto completo que combina uma interface amigável e moderna com um backend poderoso, oferecendo aos usuários a capacidade de gerar e acompanhar dietas personalizadas com a ajuda da inteligência artificial. A integração das tecnologias utilizadas permite uma experiência fluida, otimizada e rica em recursos, promovendo um estilo de vida mais saudável.
 
-Construído a partir do vídeo (https://www.youtube.com/watch?v=Nxq6txJnxb4) do canal do YouTube Sujeito programador (https://www.youtube.com/@Sujeitoprogramador).
+Construído a partir do vídeo (https://bit.ly/3AlRtmg) do canal do YouTube Sujeito programador (https://bit.ly/3KS1Al4).
