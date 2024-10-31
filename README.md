@@ -8,9 +8,7 @@ Construído a partir do vídeo (https://bit.ly/3AlRtmg) do canal do YouTube Suje
 
 ![WhatsApp Image 2024-10-30 at 22 41 34](https://github.com/user-attachments/assets/f6165901-453a-48ca-90a0-c4184e39393e)
 
-
 ![WhatsApp Image 2024-10-30 at 22 41 34 (1)](https://github.com/user-attachments/assets/9d75d0a2-c793-4127-9ac9-2d73150d7b0d)
-
 
 ![WhatsApp Image 2024-10-30 at 22 41 34 (2)](https://github.com/user-attachments/assets/41496cb7-f676-49a6-af34-1d5f21260f33)
 
